@@ -11,5 +11,6 @@ get_next_action.py will give the next action from the policy from a given state 
 Also included are the generated_dataset.csv and saved_q_values.txt files, which should allow the other programs to work without the initial steps.
 
 ### Credit:
-This code is modified from the Berkeley CS 188 Zip file (https://inst.eecs.berkeley.edu/~cs188/fa24/projects/proj6/), which is used for the project.
-This code was used as the base, and only modifications were made to the code to implement the answers to the questions.
+This code is modified from the Berkeley CS 188 Zip file (https://inst.eecs.berkeley.edu/~cs188/fa24/projects/proj6/), which is used as the basis for the Q-learning.
+This code was used as the base for the Q-learning, but the actual implementation was added during the course of the Fall 2024 semester. The generated dataset and other functions for
+the processing of the data and scripts for getting the next action in a policy were created by me.
