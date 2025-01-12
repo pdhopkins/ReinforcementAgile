@@ -1,4 +1,4 @@
-# CS 440 Fall 2024 - Project Reinforcement Learning for SWE
+# ReinforcementAgile - Project Reinforcement Learning for SWE
 ## Phil Hopkins
 ### Requirements:
 Only Python 3 is required for this project. Every package used is included in the base Python3.
